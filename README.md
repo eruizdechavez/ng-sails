@@ -1,7 +1,7 @@
 ng-sails
 ========
 
-An AngularJS + RequireJS + Bootstrap scafold application.
+An AngularJS + RequireJS + Bootstrap scafolded application to be used together with Sails.js (v0.9.x).
 
 ## How to use
 
